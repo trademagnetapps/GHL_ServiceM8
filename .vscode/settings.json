@@ -1,7 +1,0 @@
-{
-   "deno.enablePaths": ["backend/supabase/functions/"]
-}
-
-// If you're using VS Code,
-// this will enable Deno for just the backend folder
-// where we're using it
